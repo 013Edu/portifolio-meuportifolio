@@ -13,6 +13,7 @@ h1{
 }
 body{
 background-color: rgb(255, 255, 255);
+
 }
 div.box1{
     border: 3px solid rgba(0, 0, 0, 0.322);
@@ -20,6 +21,7 @@ div.box1{
     width: 500px;
     height: 650px;
     margin: 0px 20px 10px 980px;
+    margin-left: 830px;
     padding: 10px;
     max-width: 600px;
     min-width: 500px;
@@ -37,7 +39,7 @@ div.box1{
     border-radius: 10px 10px 0px 10px;
     width: 500px;
     height: 600px;
-    margin-left: 450px;
+    margin-left: 300px;
     margin-top: -635px;
     padding: 10px;
     max-width: 600px;
@@ -58,7 +60,7 @@ p{
     
 }
 .me{
-    color: rgb(253, 211, 211);
+    color: rgb(162, 215, 223);
 }
 ul{
     color: white;
@@ -70,7 +72,7 @@ ul{
     height: 200px;
     width: 220px;
     text-align: center;
-    background: linear-gradient(rgb(241, 64, 64),rgb(207, 133, 133));
+    background: linear-gradient(rgb(123, 180, 184),rgb(50, 74, 83));
 }
 .img{
     border-radius: 10px;
